@@ -19,7 +19,7 @@ A visually compelling, interactive 3D Earth simulation built with Three.js and L
 ## Usage
 
 1. **Clone or download this repository.**
-2. **Open `BEST_OF_BOTH.htm` in your web browser.**
+2. **Open `3D-earth-visuali-zed.htm` in your web browser.**
    - No build step or server required—everything runs client-side.
 3. **Explore the features:**
    - Rotate, zoom, and pan the 3D Earth
@@ -41,15 +41,15 @@ A visually compelling, interactive 3D Earth simulation built with Three.js and L
    git clone <your-repo-url>
    cd <your-repo-directory>
    ```
-2. **Open `BEST_OF_BOTH.htm` in your browser:**
+2. **Open `3D-earth-visuali-zed.htm` in your browser:**
    - Double-click the file, or
    - Run:
      ```sh
-     open BEST_OF_BOTH.htm  # macOS
+     open 3D-earth-visuali-zed.htm  # macOS
      # or
-     start BEST_OF_BOTH.htm # Windows
+     start 3D-earth-visuali-zed.htm # Windows
      # or
-     xdg-open BEST_OF_BOTH.htm # Linux
+     xdg-open 3D-earth-visuali-zed.htm # Linux
      ```
 
 ## License
